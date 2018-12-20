@@ -10,6 +10,8 @@ function theBeatlesPlay(arrMusicians, arrInstruments) {
 
 function johnLennonFacts(arrFacts) {
   const exlaimedFacts = []
+  
+  
   while (arrFacts.length > 0) {
     return arrFacts + '!!!'
   }
