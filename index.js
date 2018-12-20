@@ -24,6 +24,7 @@ function iLoveTheBeatles(num) {
   let arr = [];
   do {
     
-  } while 
+  } while ()
+  num++
 }
 
