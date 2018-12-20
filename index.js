@@ -20,3 +20,8 @@ function johnLennonFacts(arrFacts) {
   return exclaimedFacts;
 }
 
+function iLoveTheBeatles(num) {
+  let arr = [];
+  
+}
+
