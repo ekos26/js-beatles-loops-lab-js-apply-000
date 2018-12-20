@@ -14,6 +14,6 @@ function johnLennonFacts(arrFacts) {
   let i = 0;
   
   while (i < arrFacts.length) {
-    exclaimedFacts.push()
+    exclaimedFacts.push(`arrFacts[i])
   }
 }
