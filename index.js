@@ -1,8 +1,8 @@
 // add solution here
 function theBeatlesPlay(arrMusicians, arrInstruments) {
-  var arr = [];
+  const arr = [];
   
-  for (var i = 0; i < arrMusicians.length; i++) {
+  for (let i = 0; i < arrMusicians.length; i++) {
       arr.push(`${arrMusicians[i]} plays ${arrInstruments[i]}`);
   }
   return arr;
@@ -11,8 +11,9 @@ function theBeatlesPlay(arrMusicians, arrInstruments) {
 function johnLennonFacts(arrFacts) {
   const exlaimedFacts = []
   
+  let i = 0;
   
-  while (arrFacts.length > 0) {
+  while (i < arrFacts.length) {
     return arrFacts + '!!!'
   }
 }
