@@ -15,6 +15,8 @@ function johnLennonFacts(arrFacts) {
   
   while (i < arrFacts.length) {
     exclaimedFacts.push(`${arrFacts[i]}!!!`)
+    i++;
   }
   return exclaimedFacts;
 }
+
